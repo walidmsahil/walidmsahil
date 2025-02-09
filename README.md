@@ -1,6 +1,6 @@
 # Hi there, I'm Walid Mazumder! 👋
 
-![Profile Banner](https://your-banner-image-url.com)  
+![Profile Banner](IMG_6371.jpg)  
 
 ## 💡 About Me
 I'm a **2nd-year Computer Applications student** at **Häme University of Applied Sciences**, passionate about **process automation, data analytics, and workflow optimization**. I enjoy building **efficient, data-driven solutions** and working on innovative projects that enhance automation, efficiency, and decision-making.
