@@ -30,7 +30,7 @@ I'm a **2nd-year Computer Applications student** at **Häme University of Applie
 - Worked in a **Scrum-based team**, participating in sprint planning, stand-ups, and retrospectives.
 - Gained hands-on experience in **agile development, teamwork, and problem-solving**.
 
-##📜 Achievements
+## 📜 Achievements
 
 ### 🏆 HAMK Dilli Project *(1st Place - Oct 2023)*
 - Designed and implemented a **bug reporting process** using **Bugzilla/Jira**.
