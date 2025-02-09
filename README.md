@@ -43,9 +43,6 @@ I'm a **2nd-year Computer Applications student** at **Häme University of Applie
 ### 🚜 Lidl Janakkala Distribution Center *(Apr 2024 - Aug 2024)*
 **Summer Job as Order Picker (Logistics)**
 
-### 🍕 Hellenic Pizza Buffet *(Jan 2024 - Feb 2024)*
-**Trainee as Restaurant Worker**
-
 ---
 
 ## 📚 Education
