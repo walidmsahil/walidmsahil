@@ -45,7 +45,7 @@ I'm a **2nd-year Computer Applications student** at **Häme University of Applie
  - Picked and palletized goods operating a Picking machine
  - Operated in diverse environments, including dry, chilled, and fruit storage areas
  - Contributed to efficient warehouse operations by organizing and managing inventory
- - 
+   
 ---
 
 ## 📚 Education
